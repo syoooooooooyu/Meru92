@@ -7,4 +7,5 @@
 ### git
 - つかえるようになった
 ### JavaScript
-- `discord.js`
+- `node.js`
+- `discord.js` でdiscord botを作ってます。
