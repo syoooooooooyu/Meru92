@@ -9,3 +9,7 @@
 ### JavaScript
 - `node.js`
 - `discord.js` でdiscord botを作ってます。
+### PHP
+- Minecraft BedrockEdition サーバーソフトウェア『Pocketmine-MP』で使うプラグインを作ります。
+- ただ、人が一週間で出来ることが僕には2年かかるので多分無理な気がしてます！
+
